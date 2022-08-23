@@ -1,8 +1,6 @@
 ## ALGORITHM PRACTICE
 
-Table of contents
-
-### Basic
+### Table of contents
 
 <table>
     <thead>
